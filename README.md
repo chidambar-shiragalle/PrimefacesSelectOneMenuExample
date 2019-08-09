@@ -1,0 +1,2 @@
+# PrimefacesSelectOneMenuExample
+Primefaces SelectOneMenu Example
